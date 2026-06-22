@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Felipe
 
-QA Automation Engineer working with Web, API and Performance Testing.
+QA Automation Web, API and Performance Testing.
+
+---
 
 ## 🚀 Tech Stack
 
@@ -14,37 +16,22 @@ QA Automation Engineer working with Web, API and Performance Testing.
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+---
+
+## Tech
+
+Cypress · Selenium · JavaScript · TypeScript  
+Gherkin · JUnit · K6 · JMeter  
+Git · GitHub Actions · SQL  
+
+---
 
 ## 📂 Featured Projects
 
-### QA Web Automation
-- Cypress
-- Selenium
-- Gherkin / BDD
-- Page Object Model
-- Test Scenarios (UI flows)
-
-### QA API & Unit Testing
-- REST API testing
-- Authentication flows
-- Schema validation
-- JUnit test cases
-- Negative scenarios
-
-### QA Performance Testing
-- K6 scripts (smoke, load, stress)
-- Apache JMeter scenarios
-- Threshold validation
-- Response time analysis
-
-## 📊 Focus Areas
-
-- Test Automation (Web & API)
-- Performance Testing Engineering
-- Test Architecture & Design Patterns
-- CI/CD pipelines for QA
-- Test reliability and maintainability
+Web Automation → Cypress · Selenium · BDD  
+API Testing → REST · JUnit · Validation  
+Performance → K6 · JMeter · Thresholds 
 
 ## 📫 Contact
 
